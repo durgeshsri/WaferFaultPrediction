@@ -52,5 +52,5 @@ pip install -r requirements.txt
 
 
 ## Credits
-[iNeuron.ai](https://ineuron.ai/) - This project wouldn't have been possible without their helps. They always were with for any kind of problem.
+[iNeuron.ai](https://ineuron.ai/) - This project wouldn't have been possible without their helps. They always were with me for any kind of problem.
        
