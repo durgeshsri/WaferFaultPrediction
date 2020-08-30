@@ -1,8 +1,5 @@
 # WaferFaultPrediction
 
-## Overview:
-    To build a classification methodology to predict the quality of wafer sensors based on the given training data.
-    This is a simple wafer quality binary classification Flask app trained on the top of Sklearn API and  XGBoost. The trained models takes a Batch file (All Sensor's Data)  as an input and predict the class of output 0/1(Good/Bad).
 
 ## Technical Aspect:
    This project is divided into two part:
@@ -34,4 +31,13 @@ pip install -r requirements.txt
     -  Flask
     -  Gunicorn
 
-##
+## Team
+
+ ![Durgesh Kumar](https://user-images.githubusercontent.com/22117967/91654030-568fac00-eac3-11ea-836b-f2c35eb632c7.jpg) |
+ -|
+[Durgesh Kumar](https://www.linkedin.com/in/durgesh-kumar-961b0b159/) |)
+
+
+## Credits
+[iNeuron.ai](https://ineuron.ai/) - This project wouldn't have been possible without their helps. They always were with for any kind of problem.
+       
