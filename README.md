@@ -43,7 +43,6 @@ pip install -r requirements.txt
     -  XGBoost
     -  SQLite3
     -  Flask
-    -  Gunicorn
 
 ## Team
 
