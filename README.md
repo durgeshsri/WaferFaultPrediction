@@ -11,7 +11,7 @@
 
 
 ## Overview:
-   This is a simple wafer quality binary classification Flask app trained on the top of Sklearn API and  XGBoost. The trained models takes a Batch file (All Sensor's Data)  as an input and predict the class of output 0/1(Good/Bad).
+   This is a simple wafer quality binary classification Flask app trained on the top of Sklearn API and  XGBoost. The trained models takes a Batch file (All Sensor's Data)  as an input and predict the class of output 0/1(Good/Bad) , and will create a predicted batch csv file in local system which will have two columns wafer name and their quality(Good-0 / Bad-1)
 
 
 
