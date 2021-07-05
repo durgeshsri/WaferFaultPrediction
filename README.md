@@ -20,7 +20,7 @@
    1. Training
        -  Validating all raw data file according to schema file(Have all the information about Good Raw Data).
        -  Storing good raw data to a SQLite3 data base.
-       -  Imporing the data from SQLite3 data base to local in form of csv.
+       -  Importing the data from SQLite3 data base to local in form of csv.
        -  Dividing the data into clusters using KMean Clusterig and train clusters with best Machine learning models using Sklearn and XGBoost API.
        -  Building a Flask web app.
    2. Prediction
